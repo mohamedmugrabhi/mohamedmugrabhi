@@ -2,7 +2,6 @@
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/MohamedMagraby" alt="Workspace"  width="40%"/><br> 
 
-<!-- اسمك متحرك باللون الأحمر -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mohamed+Mugrabhi;Software+Engineering+Student;AI+%26+Cyber+Security+Enthusiast)](https://github.com/MohamedMagraby)
 
 <details>
@@ -17,6 +16,13 @@
 </div>
 
 <hr></hr>
+
+## 🚀 Currently Working On
+- Improving problem solving & ICPC skills
+- Practicing OOP, SOLID & Design Patterns
+- Building small projects using Java
+- Learning more about Databases & Data structure
+
 
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
