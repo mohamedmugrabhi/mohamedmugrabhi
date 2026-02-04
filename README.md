@@ -21,7 +21,8 @@
 - Improving problem solving & ICPC skills
 - Practicing OOP, SOLID & Design Patterns
 - Building small projects using Java
-- Learning more about Databases & Data structure
+- Learning more about Databases & Data Structures
+
 
 
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
